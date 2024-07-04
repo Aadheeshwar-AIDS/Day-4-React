@@ -1,7 +1,7 @@
 {
   "name": "day4",
   "private": true,
-  "homepage": "https://Aadheeshwar-AIDS.github.io/day4",
+  "homepage": "https://Aadheeshwar-AIDS.github.io/Day4",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -9,6 +9,7 @@
     "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
+
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
